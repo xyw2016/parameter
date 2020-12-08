@@ -1,0 +1,14 @@
+# xyscan Version 3.3.0
+# Date: Wed Jun 13 09:16:56 2018
+# Scanned by: DingChi
+# Source: C:/Users/DingChi/Desktop/120180611120642.png
+# Comment: 
+# Format: x y -dx +dx -dy +dy
+2.52551	0.0235127	0	0	0	0	
+7.5	0.026204	0	0	0	0	
+15	0.0287535	0	0	0	0	
+24.9872	0.0300283	0	0	0	0	
+34.9745	0.031728	0	0	0	0	
+45	0.0315864	0	0	0	0	
+54.949	0.0250708	0	0	0	0	
+# EoF

@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t9
+#: name: Table 9
+#: description: v3{SP}/epsilon(CGC) (blue filled squares).
+
+#: data_file: Table9.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v3{SP}/epsilon(CGC) (blue filled squares)','error +','error -'
+2.5,0.260791,0.001716,-0.001716
+7.5,0.24958,0.001557,-0.001557
+15.0,0.23232,0.001096,-0.001096
+25.0,0.209885,0.001177,-0.001177
+35.0,0.179502,0.001387,-0.001387
+45.0,0.146135,0.001829,-0.001829
+

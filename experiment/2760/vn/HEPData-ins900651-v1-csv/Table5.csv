@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t5
+#: name: Table 5
+#: description: v3{ZDC} (green filled circles).
+
+#: data_file: Table5.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v3{ZDC} (green filled circles)','error +','error -'
+2.5,0.200541,0.682596,-0.682596
+7.5,-0.00083,0.002634,-0.002634
+15.0,0.000347,0.00067,-0.00067
+25.0,0.001182,0.000507,-0.000507
+35.0,-0.000188,0.00063,-0.00063
+45.0,0.000567,0.000981,-0.000981
+

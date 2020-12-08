@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t3
+#: name: Table 3
+#: description: v4{SP} (purprle stars).
+
+#: data_file: Table3.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v4{SP} (purprle stars)','error +','error -'
+2.5,0.009501,0.000251,-0.000251
+7.5,0.011346,0.000264,-0.000264
+15.0,0.012642,0.000227,-0.000227
+25.0,0.014138,0.000307,-0.000307
+35.0,0.015804,0.000427,-0.000427
+45.0,0.015339,0.000731,-0.000731
+

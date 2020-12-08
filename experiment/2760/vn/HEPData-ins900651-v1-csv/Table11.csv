@@ -1,0 +1,19 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t11
+#: name: Table 11
+#: description: v2{SP} (red filled circles).
+
+#: data_file: Table11.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v2{SP} (red filled circles)','error +','error -'
+0.5,0.021207,0.000269,-0.000269
+1.5,0.024244,0.000259,-0.000259
+2.5,0.02788,0.000249,-0.000249
+3.5,0.032124,0.000241,-0.000241
+4.5,0.035415,0.000236,-0.000236
+

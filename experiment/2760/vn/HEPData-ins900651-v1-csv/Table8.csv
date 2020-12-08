@@ -1,0 +1,23 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t8
+#: name: Table 8
+#: description: v2{SP}/epsilon(W) (purple open circles).
+
+#: data_file: Table8.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v2{SP}/epsilon(W) (purple open circles)','error +','error -'
+2.5,0.33263,0.001634,-0.001634
+7.5,0.360947,0.001003,-0.001003
+15.0,0.33142,0.000503,-0.000503
+25.0,0.300613,0.000416,-0.000416
+35.0,0.269744,0.00041,-0.00041
+45.0,0.235261,0.000469,-0.000469
+55.0,0.195372,0.000643,-0.000643
+65.0,0.151876,0.001317,-0.001317
+75.0,0.10652,0.014242,-0.014242
+

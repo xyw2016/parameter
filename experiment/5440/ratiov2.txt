@@ -1,0 +1,15 @@
+# xyscan Version 3.3.1
+# Date: Wed Jun 20 12:01:09 2018
+# Scanned by: chenwei
+# Source: /home/chenwei/Downloads/1.png
+# Comment: 
+# Format: x y -dx +dx -dy +dy
+2.48521	1.35204	0	0	0	0	
+7.51479	1.09809	0	0	0	0	
+15.0296	0.99346	0	0	0	0	
+25.0296	0.944414	0	0	0	0	
+35.0296	0.928065	0	0	0	0	
+45.0888	0.913896	0	0	0	0	
+55.0296	0.918256	0	0	0	0	
+65.0888	0.912807	0	0	0	0	
+# EoF

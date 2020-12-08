@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t4
+#: name: Table 4
+#: description: v3{4} (blue open squares).
+
+#: data_file: Table4.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v3{4} (blue open squares)','error +','error -'
+2.5,0.010537,0.001015,-0.001015
+7.5,0.01258,0.001155,-0.001155
+15.0,0.015526,0.000697,-0.000697
+25.0,0.015061,0.001481,-0.001481
+35.0,0.018393,0.00148,-0.00148
+45.0,0.017705,0.003529,-0.003529
+

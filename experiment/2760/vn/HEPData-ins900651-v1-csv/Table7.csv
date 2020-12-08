@@ -1,0 +1,23 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t7
+#: name: Table 7
+#: description: v2{SP}/epsilon(CGC) (red filled circles).
+
+#: data_file: Table7.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v2{SP}/epsilon(CGC) (red filled circles)','error +','error -'
+2.5,0.260898,0.001282,-0.001282
+7.5,0.25057,0.000697,-0.000697
+15.0,0.236001,0.000358,-0.000358
+25.0,0.22737,0.000315,-0.000315
+35.0,0.216312,0.000329,-0.000329
+45.0,0.200056,0.000399,-0.000399
+55.0,0.176282,0.00058,-0.00058
+65.0,0.146061,0.001266,-0.001266
+75.0,0.109324,0.014617,-0.014617
+

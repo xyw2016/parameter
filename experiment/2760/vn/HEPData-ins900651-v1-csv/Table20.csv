@@ -1,0 +1,24 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t20
+#: name: Table 20
+#: description: v5{SP,Deltaeta=1.0} (black open diamonds).
+
+#: data_file: Table20.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: RE,PB PB --> CHARGED X
+#: ABS(DELTA(ETA)),> 1.0
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'PT [GEV]','v5{SP,Deltaeta=1.0} (black open diamonds)','error +','error -'
+0.3,-0.00166,0.006239,-0.006239
+0.5,-0.000953,0.00734,-0.00734
+0.7,0.009396,0.008126,-0.008126
+0.9,0.020289,0.010441,-0.010441
+1.15,-0.003699,0.010926,-0.010926
+1.45,0.01601,0.014386,-0.014386
+1.75,0.045845,0.020467,-0.020467
+2.05,0.04484,0.027239,-0.027239
+2.4,0.055518,0.033738,-0.033738
+2.8,0.12592,0.051262,-0.051262
+

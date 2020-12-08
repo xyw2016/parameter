@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t10
+#: name: Table 10
+#: description: v3{SP}/epsilon(W) (purple open squares).
+
+#: data_file: Table10.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v3{SP}/epsilon(W) (purple open squares)','error +','error -'
+2.5,0.259415,0.001707,-0.001707
+7.5,0.227777,0.001421,-0.001421
+15.0,0.197809,0.000933,-0.000933
+25.0,0.171537,0.000962,-0.000962
+35.0,0.145284,0.001122,-0.001122
+45.0,0.119694,0.001498,-0.001498
+

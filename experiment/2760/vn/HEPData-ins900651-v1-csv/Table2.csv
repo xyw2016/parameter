@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t2
+#: name: Table 2
+#: description: v3{SP} (blue filled squares).
+
+#: data_file: Table2.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v3{SP} (blue filled squares)','error +','error -'
+2.5,0.020491,0.000136,-0.000136
+7.5,0.02364,0.000149,-0.000149
+15.0,0.026428,0.000126,-0.000126
+25.0,0.029284,0.000167,-0.000167
+35.0,0.030521,0.00024,-0.00024
+45.0,0.030043,0.000389,-0.000389
+

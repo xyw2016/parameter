@@ -1,0 +1,20 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t6
+#: name: Table 6
+#: description: v3{QC5} (black filled diamonds).
+
+#: data_file: Table6.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: PT [GeV],0.2-5.0
+#: RE,PB PB --> CHARGED X
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'CENTRALITY [PCT]','v3{QC5} (black filled diamonds)','error +','error -'
+2.0,-0.00066,0.001117,-0.001117
+7.0,-0.000624,0.000895,-0.000895
+14.5,0.00025,0.000725,-0.000725
+24.5,-0.000173,0.000924,-0.000924
+34.5,0.000115,0.001385,-0.001385
+44.5,0.006161,0.002493,-0.002493
+

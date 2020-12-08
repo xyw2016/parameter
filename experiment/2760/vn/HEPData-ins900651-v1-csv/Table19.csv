@@ -1,0 +1,26 @@
+#: table_doi: 10.17182/hepdata.62026.v1/t19
+#: name: Table 19
+#: description: v5{SP,Deltaeta=0.2} (black filled diamonds).
+
+#: data_file: Table19.yaml
+#: keyword reactions: PB PB --> CHARGED X
+#: keyword observables: V
+#: keyword phrases: Inclusive
+#: keyword cmenergies: 2760.0
+#: RE,PB PB --> CHARGED X
+#: ABS(DELTA(ETA)),> 0.2
+#: SQRT(S)/NUCLEON [GeV],2760.0
+'PT [GEV]','v5{SP,Deltaeta=0.2} (black filled diamonds)','error +','error -'
+0.3,0.005428,0.002227,-0.002227
+0.5,0.002807,0.002588,-0.002588
+0.7,0.003034,0.003172,-0.003172
+0.9,0.008406,0.003872,-0.003872
+1.15,0.011691,0.004061,-0.004061
+1.45,0.016794,0.00552,-0.00552
+1.75,0.033101,0.007585,-0.007585
+2.05,0.025018,0.010182,-0.010182
+2.4,0.030943,0.012424,-0.012424
+2.8,0.045353,0.018294,-0.018294
+3.5,0.071972,0.020202,-0.020202
+4.5,0.064883,0.042575,-0.042575
+
